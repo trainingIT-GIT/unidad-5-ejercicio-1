@@ -7,4 +7,12 @@ class Vehiculo {
         this.plazas = plazas;
         this.tipo = tipo;
     }
+
+    protected comprar() {
+
+    }
+
+    protected vender() {
+
+    }
 }
