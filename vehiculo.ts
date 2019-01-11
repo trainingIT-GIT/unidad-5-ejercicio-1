@@ -7,4 +7,9 @@ class Vehiculo {
         this.plazas = plazas;
         this.tipo = tipo;
     }
+
+    public desguazar() {
+
+    }
+
 }
