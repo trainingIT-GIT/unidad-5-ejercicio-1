@@ -1,5 +1,6 @@
 enum tiposVehiculo {
     terrestre,
     maritimo,
-    aereo
+    aereo,
+    submarino
 }
