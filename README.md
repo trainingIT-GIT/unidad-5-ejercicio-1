@@ -4,7 +4,7 @@ Ejercicio uno de la unidad 5
 1. Clona en tu máquina, con el comando git clone, el repositorio que hay aquí:
 https://github.com/trainingIT-GIT/unidad-5-ejercicio-1.
 
-- ésa no es la URL del repositorio, sino la de la interfaz web para gestionar el repositorio.
+- esa no es la URL del repositorio, sino la de la interfaz web para gestionar el repositorio.
 - es recomendable copiar la URL asegurándote antes de que estás logueado con tu cuenta.
 - el comando `git clone` te creará una subcarpeta, recuerda entrar en ella para empezar a trabajar.
 2. Lanza el comando `git checkout develop` para poder ver las dos ramas que te has bajado (si no, sólo verás _main_).
